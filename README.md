@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-YohanLuxsan08
-- 👀 I’m interested in Full stack developing
-- 🌱 I’m currently learning Full stack
+- 👀 I’m interested in Full stack developing and mostly interested in Backend
+- 🌱 I’m currently learning and working in Full stack
 - 💞️ I’m looking to collaborate on Every full stack developers
 - 📫 How to reach me :- reach me by using this gmail address :- yohanluxsan08@gmail.com
 - 😄 Pronouns: YohanLuxsan
